@@ -8,19 +8,6 @@ The project uses **XAMPP** to establish a local web server, **Kali Linux** for p
 
 **Disclaimer:** This project is strictly for educational purposes and should only be used in environments where permission has been granted for penetration testing.
 
----
-
-## Table of Contents
-1. [Requirements](#requirements)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Tool Options](#tool-options)
-5. [Notes](#notes)
-6. [Features](#features)
-7. [Learning Outcomes](#learning-outcomes)
-8. [Author](#author)
-9. [Supervisor](#supervisor)
-10. [License](#license)
 
 ---
 
